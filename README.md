@@ -48,10 +48,12 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 ## Support - 目前支持的字符
 ```
 #!_,.-|，
-0123
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-润体玉王汪正厂上十一二三主丨亻氵亠艹辶造中国田口回本木苗丁仃汀亡告
+0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+АВЕИКМНОСТУФХ
+あ
+润体玉王汪正厂上十一二三工士土主丨亻氵亠艹辶造中国田口回本木苗丁仃汀亡告市仁日仕
+
 ```
 
 ---
