@@ -57,5 +57,11 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 
 ---
 
+## License
+This project use *SIL Open Font License 1.1*。
+这个字体项目使用 *SIL Open Font License 1.1*（开源字体许可证）。
+
+---
+ 
 > Last edited on 2023/2/3  
 > 最后编辑于 2023/2/3
