@@ -47,11 +47,12 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 
 ## Support - 目前支持的字符
 ```
-#!_,.-+=|/[]，0123456789
+#!_,.:;-+=|/[]，0123456789
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 АВЕИКМНОСТУФХ
 あ
-润体休玉王汪正厂尸上十一二三六工士土主丨亻氵亠艹辶造中国田口回本木苗丁仃汀亡告市仁仕日目白百佰伯山吉下不卜仆卞汨沐汴泪泊汕叶由甲里吕品宀空古估苦逞呈旦占叫苜宝早草芒盲
+润体休玉王汪正厂尸上十一二三六工士土主丨亻氵亠艹辶造中国田口回本木苗丁仃汀亡告市仁仕日目白百佰伯山吉
+下不卜仆卞汨沐汴泪泊汕叶由甲里吕品宀空古估苦逞呈旦占叫苜宝早草盲芒平苹果
 
 ```
 
@@ -63,5 +64,5 @@ This project use *SIL Open Font License 1.1*。
 
 ---
  
-> Last edited on 2023/2/3  
-> 最后编辑于 2023/2/3
+> Last edited on 2023/2/25  
+> 最后编辑于 2023/2/25
