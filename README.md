@@ -3,7 +3,10 @@
 ## English
 ***I'M NOT GOOD AT ENGLISH.So `README.md` may have many *Grammatical problem*.I fell SORRY to this!***   
 `Roundy` is a kind of fonts which is made by myself.  
-It provides 26 English letters and some punctuations. It also supports a small number of Chinese characters.
+It provides 26 English letters and some punctuations. It also supports a small number of Chinese characters, Janpanese characters, Russian characters and others.
+
+If you have any suggestions or just want to report issues, you can tell me in my [Github](https://github.com/Samable07/Roundy/issues) or [Bilibili](https://space.bilibili.com/662448670).
+Thanks for your support!
 
 ### How to use?
 - Download files `Roundy.ttf` for your computer and then install it.
@@ -27,6 +30,9 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 `润体`是一款我自己制作的字体。  
 它目前提供了26个英文字母和一些标点符号。它还支持少量的中文字符和其他字符。
 
+如果你有任何的建议或问题报告，请到我的 [Github](https://github.com/Samable07/Roundy/issues) 或 [Bilibili](https://space.bilibili.com/662448670) 留言。
+谢谢你的支持！
+
 ### 如何使用？
 - 仅需下载文件`Roundy.ttf`到你的电脑上，然后安装字体即可。
 
@@ -45,24 +51,11 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 
 ---
 
-## Support - 目前支持的字符
-```
-#!_,.:;-+=|/[]，0123456789
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
-АВЕИКМНОСТУФХ
-あ
-润体休玉王汪正厂尸上十一二三六工士土主丨亻氵亠艹辶造中国田口回本木苗丁仃汀亡告市仁仕日目白百佰伯山吉
-下不卜仆卞汨沐汴泪泊汕叶由甲里吕品宀空古估苦逞呈旦占叫苜宝早草盲芒平苹果
-
-```
-
----
-
-## License
+## License - 许可
 This project use *SIL Open Font License 1.1*。
 这个字体项目使用 *SIL Open Font License 1.1*（开源字体许可证）。
 
 ---
  
-> Last edited on 2023/2/25  
-> 最后编辑于 2023/2/25
+> Last edited on 2023/6/2
+> 最后编辑于 2023/6/2
