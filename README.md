@@ -1,9 +1,8 @@
 # Roundy - 润体
 
 ## English
-***I'M NOT GOOD AT ENGLISH.So `README.md` may have many *Grammatical problem*.I fell SORRY to this!***   
-`Roundy` is a kind of fonts which is made by myself.  
-It provides 26 English letters and some punctuations. It also supports a small number of Chinese characters, Janpanese characters, Russian characters and others.
+`Roundy` is a font with smooth appearance.It may be cute and seems like a hand-wrtiting style.
+It provides 26 English letters and some punctuations. It also supports a little characters of Chinese, Janpanese, Russian and other languages.
 
 If you have any suggestions or just want to report issues, you can tell me in my [Github](https://github.com/Samable07/Roundy/issues) or [Bilibili](https://space.bilibili.com/662448670).
 Thanks for your support!
@@ -11,9 +10,9 @@ Thanks for your support!
 ### How to use?
 - Download files `Roundy.ttf` for your computer and then install it.
 
-### [Warning] 
+### [ Warning ] 
 It is a **Development edition.**  
-I do not recommend that you use this version. It perhaps has a lot of problems.
+*I do not recommend that you use this version. It perhaps has a lot of problems.*
 
 ### Addition
 - Why I name the font `Roundy - 润体`?
@@ -27,18 +26,18 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 ---
 
 ## 中文
-`润体`是一款我自己制作的字体。  
+`润体`是一款我自己制作的字体。特点是较为圆滑、“可爱”(?)且有手写字体的一些感觉。
 它目前提供了26个英文字母和一些标点符号。它还支持少量的中文字符和其他字符。
 
-如果你有任何的建议或问题报告，请到我的 [Github](https://github.com/Samable07/Roundy/issues) 或 [Bilibili](https://space.bilibili.com/662448670) 留言。
-谢谢你的支持！
+如果你有任何的建议或报告问题，请到我的 [Github](https://github.com/Samable07/Roundy/issues) 或 [Bilibili](https://space.bilibili.com/662448670) 留言。
+感谢你的支持！
 
 ### 如何使用？
 - 仅需下载文件`Roundy.ttf`到你的电脑上，然后安装字体即可。
 
-### [注意] 
+### [ 注意 ] 
 它正处于**开发版本**。  
-我并不建议您使用这个版本。它或许存在许多问题。
+我并不建议您使用这个版本。它存在许多问题。
 
 ### 杂谈
 - 为什么它要叫做`Roundy - 润体`？
@@ -57,5 +56,5 @@ This project use *SIL Open Font License 1.1*。
 
 ---
  
-> Last edited on 2023/6/2
-> 最后编辑于 2023/6/2
+> Last edited on 2024/3/24
+> 最后编辑于 2024/3/24
