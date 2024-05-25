@@ -4,15 +4,18 @@
 `Roundy` is a font with smooth appearance.It may be cute and seems like a hand-wrtiting style.
 It provides 26 English letters and some punctuations. It also supports a little characters of Chinese, Janpanese, Russian and other languages.
 
-If you have any suggestions or just want to report issues, you can tell me in my [Github](https://github.com/Samable07/Roundy/issues) or [Bilibili](https://space.bilibili.com/662448670).
+If you have any suggestions or just want to report issues, you can tell me on my [Github](https://github.com/Samable07/Roundy/issues) or [Bilibili](https://space.bilibili.com/662448670).
 Thanks for your support!
 
 ### How to use?
-- Download files `Roundy.ttf` for your computer and then install it.
-
-### [ Warning ] 
-It is a **Development edition.**  
-*I do not recommend that you use this version. It perhaps has a lot of problems.*
+- Only use the font personally:
+- - Download files `Roundy.ttf` for your computer and then install it.
+- Try to adapt it:
+- 1. Click <https://github.com/Samable07/Roundy/releases> and find files with`.sfd`.
+  - Tips: Sometimes the lastest version of *Roundy* is not able to be found.
+  2. Download the file and use APP like `FontForge` to open it.
+  3. Then to edit it.
+  - Tips: *Roundy* uses `Open Font License 1.1`.
 
 ### Addition
 - Why I name the font `Roundy - 润体`?
@@ -21,7 +24,7 @@ It is a **Development edition.**
 > Well, its English name `Roundy` takes inspiration from another font called `Smiley Sans`(Made by `@oooooohmygosh`).  
 
 ### Plan
-I want to complete all the Chinese characters in `GB2312`(*Chinese character coded character set for information interchange*)(6763 *hanzi*).
+I want to complete all the Chinese characters and Japanese characters in `GB2312`.It will takes me a long time.
 
 ---
 
@@ -33,11 +36,14 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 感谢你的支持！
 
 ### 如何使用？
-- 仅需下载文件`Roundy.ttf`到你的电脑上，然后安装字体即可。
-
-### [ 注意 ] 
-它正处于**开发版本**。  
-我并不建议您使用这个版本。它存在许多问题。
+- 仅使用：
+- - 下载文件`Roundy.ttf`到你的电脑上，然后安装字体即可。
+- 改编它或二次创作：
+- 1.点击链接<<https://github.com/Samable07/Roundy/releases>>，然后找到`.sfd`后缀的文件。
+- - Tips:有时候可能它不是最新版。
+  2.下载这个文件然后在例如`FontForge`等软件上打开它。
+  3.然后就可以编辑了~
+  - Tips:请注意遵守`Open Font License 1.1`协议。
 
 ### 杂谈
 - 为什么它要叫做`Roundy - 润体`？
@@ -46,7 +52,7 @@ I want to complete all the Chinese characters in `GB2312`(*Chinese character cod
 > 当然，它在名称上的灵感也来源于另一款字体`Smiley Sans - 得意黑`。
 
 ### 计划
-我想在~~有生之年~~做完`GB2312`上的所有中文字符（6763个汉字）。
+我想在~~有生之年~~做完`GB2312`上的所有中文（6763个汉字）和日文字符。
 
 ---
 
@@ -56,5 +62,5 @@ This project use *SIL Open Font License 1.1*。
 
 ---
  
-> Last edited on 2024/3/24
-> 最后编辑于 2024/3/24
+> Last edited on 2024/5/25
+> 最后编辑于 2024/5/25
