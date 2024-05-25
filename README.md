@@ -15,7 +15,6 @@ Thanks for your support!
   - Tips: Sometimes the lastest version of *Roundy* is not able to be found.
   2. Download the file and use APP like `FontForge` to open it.
   3. Then to edit it.
-  - Tips: *Roundy* uses `Open Font License 1.1`.
 
 ### Addition
 - Why I name the font `Roundy - 润体`?
@@ -39,11 +38,10 @@ I want to complete all the Chinese characters and Japanese characters in `GB2312
 - 仅使用：
 - - 下载文件`Roundy.ttf`到你的电脑上，然后安装字体即可。
 - 改编它或二次创作：
-- 1.点击链接<<https://github.com/Samable07/Roundy/releases>>，然后找到`.sfd`后缀的文件。
-- - Tips:有时候可能它不是最新版。
-  2.下载这个文件然后在例如`FontForge`等软件上打开它。
-  3.然后就可以编辑了~
-  - Tips:请注意遵守`Open Font License 1.1`协议。
+- 1. 点击链接<<https://github.com/Samable07/Roundy/releases>>，然后找到`.sfd`后缀的文件。
+  - Tips: 有时候可能它不是最新版。  
+  2. 下载这个文件然后在例如`FontForge`等软件上打开它。  
+  3. 然后就可以编辑了~  
 
 ### 杂谈
 - 为什么它要叫做`Roundy - 润体`？
